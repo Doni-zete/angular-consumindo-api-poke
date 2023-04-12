@@ -2,6 +2,8 @@
 
  # :computer:  Projeto Angular consumindo pokeapi
 
+######  Layout do Projeto Concluído
+![Pesquisa Pokemon](https://github.com/Doni-zete/angular-consumindo-api-poke/blob/main/img/pokeapi.gif)
 
 ## :rocket: Sobre o desafio
 
