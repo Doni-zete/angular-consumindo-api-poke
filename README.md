@@ -7,7 +7,7 @@
 
 ## :rocket: Sobre o desafio
 
-Desafio feito no Bootcamp de Angular, da [Digital Innovation One](https://web.digitalinnovation.one/track/everis-fullstack-developer) que consiste na recriação do layout da pagina do [The blog](https://dribbble.com/shots/18089191-Blog-Layout), envolvendo o conteúdo estudado durante o Bootcamp.
+Desafio feito no Bootcamp de Angular, da [Digital Innovation One](https://web.digitalinnovation.one/track/everis-fullstack-developer), envolvendo o conteúdo estudado durante o Bootcamp.
 
 
 :hammer_and_wrench: **Tecnologias Utilizadas**
