@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
-import { environment } from 'src/environments/environment';
+import { environment } from '../../environments/environment';
 import {PokemonData} from '../models/pokemonData';
 
 @Injectable({
@@ -12,7 +12,7 @@ export class PokemonService {
   private pokeData: PokemonData | any;
 
   constructor(private http: HttpClient) {
-    this.baseURL = environment.pokeApi;
+    this.baseURL = 'https://pokeapi.co/api/v2/pokemon/';
   }
   getPokemon(pokemonName: string): Observable<PokemonData> {
     this.pokeData = 

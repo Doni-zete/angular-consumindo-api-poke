@@ -16,6 +16,7 @@ Desafio feito no Bootcamp de Angular, da [Digital Innovation One](https://web.di
 * JavaScript
 * Angular
 * TypeScript
+* https://pokeapi.co/
 
 :arrow_down: **Como baixar o projeto**
 
